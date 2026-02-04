@@ -1,0 +1,10 @@
+# Ignore the database file
+*.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment folders (if you have one)
+venv/
+.env
